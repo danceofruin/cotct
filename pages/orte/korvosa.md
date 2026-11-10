@@ -1,33 +1,48 @@
-# Korvosa
+# Korvosa · Stadt auf einen Blick
 
-**[BUCH]** Chelisch geprägte Handels- und Hafenstadt an der Mündung des Jeggare in die Conqueror's Bay. Die Insel Old Korvosa und die Hauptstadthalbinsel werden vom Fluss getrennt.
+> **[BUCH]** Appendix 2 der *Anniversary Edition*, Druck-S. **396–411**. **Karte:** S. 400 / PDF-S. 401. **Zur Orientierung:** [Wegweiser](wege.md) · [84 Orte mit Kartenmarkern](register.md).
 
-**Quellen:** *Player's Guide* (2008), Druck-S. 2–7, besonders S. 3–5; *Anniversary Edition* (2016), Appendix 2 ab Druck-S. 392.
-
-## Bezirke auf einen Blick
-
-| Stadtteil | Praktisches Profil |
+| Schnellfakt | Antwort |
 | --- | --- |
-| **Old Korvosa** | Dicht bebauter Altstadtbereich auf Endrin Isle, Fort Korvosa und Arkona Palace |
-| **Midland** | Handel, Amts- und Wachstrukturen, dichtes städtisches Leben |
-| **North Point** | Ältere Familien, Rathaus, Gerichte und Institutionen |
-| **The Heights** | Adel, Machtzentren und Castle Korvosa auf Citadel Hill |
-| **South Shore** | Jüngere, wohlhabendere Wohngegenden |
-| **East Shore** | Besitzungen und weitere Einrichtungen jenseits des Jeggare |
-| **Gray** | Friedhofs- und Pharasma-Bezirk |
+| **Lage** | Mündung des Jeggare in die Conqueror's Bay, Varisia |
+| **Einwohner** | **18.486** laut Buch-Statblock (Druck-S. 398), kein aktueller Volkszählungsstand nach Unruhen |
+| **Staatsform** | Stadtstaat mit Monarchie, mächtiger Verwaltung, Arbiters und Magistraten |
+| **Herrscherin [KANON]** | **Königin Ileosa Arabasti**, nach dem Tod König Eodred II |
+| **Gesellschaft** | Chelisch geprägte Klassen- und Rechtsordnung; strenge Gesetze, zugleich geduldete/steuerpflichtige Laster |
+| **Sechs Bezirke (Anniversary)** | Old Korvosa, North Point, The Heights, Midland, East Shore, Southern Korvosa |
+| **Gegenwärtige Lage** | Unruhen nach dem Tod des Königs; *All the World's Meat* beendet, Eel's End steht an |
+| **Wache** | [Cressida Kroft](../nsc/cressida-kroft.md) in [Citadel Volshyenek](citadel-volshyenek.md) |
+| **Karte** | Appendix, Druck-S. **400**: Marker G, H, R, S, T, V für 84 Orte |
 
-## Politische Wirklichkeit
+## Stadtteile und ihre Nachbarschaften
 
-- **[BUCH]** Stadtwache, Sable Company und Hellknights überschneiden sich teilweise in ihren Zuständigkeiten. Das liefert Konflikte, aber auch Zuständigkeitslücken.
-- **[BUCH]** Korvosa toleriert eine regulierte Diebesgilde und erhebt für manche Laster offizielle Abgaben. Legalität und Moral fallen dadurch nicht zusammen.
-- **[BUCH]** Armut und Wohlstand liegen räumlich und politisch weit auseinander. Macht, Regelbewusstsein und Status zählen im öffentlichen Leben.
-- **[BUCH]** Nach Eodreds Tod stehen die Institutionen unter akutem Druck.
+| Bezirk | Teilviertel / Orientierung | Wofür steht er? |
+| --- | --- | --- |
+| **Old Korvosa** | Bridgefront, Fort Korvosa, Garrison Hill, Old Dock | Endrin Isle: Armut, alte Festung, Arkona, Vergnügungsviertel |
+| **North Point** | Five Corners, Mainshore, Northgate, Ridgefield | Ämter, reiches altes Geld und bitterarme Wohnviertel |
+| **The Heights** | Citadel Crest, Cliffside, University | Monarchie, Adel, Akademien |
+| **Midland** | High Bridge, Pillar Hill, Slope, West Dock | Wache, Märkte, Arbeiter, Gewerbe |
+| **East Shore** | Keine Unterviertel in dieser Quelle | Wohnhäuser, Militärnähe, allgemeine Magieschule |
+| **Southern Korvosa** | South Shore, Gray | Neueres Wohlstandsviertel und Friedhofsbezirk |
 
-## Karten
+**Quellenhinweis:** Der **Player's Guide (2008)** zählt Gray noch als eigenen Bezirk und kommt daher auf sieben. **Anniversary Edition 2016, Druck-S. 401:** sechs Bezirke, Gray zählt zu Southern Korvosa. Hier wird die 2016er Fassung verwendet.
 
-- *Player's Guide* (2008), PDF-Seite 2: große Stadtkarte mit Vierteln, Straßen und Landmarken.
-- *Map Folio* (2008), Stadtposter und Regionalposter.
+## Gesellschaft, Recht, Handel
 
-## Gegenwärtiger Spielstand
+Korvosaner achten auf Kompetenz, Status, soziale Ordnung und Berechenbarkeit. Die durch zahlreiche Änderungen verkomplizierte Stadtcharta erlaubt weitreichende Bürokratie und harte Strafen. Händler- und Handwerkerzünfte sind verboten, **eine Diebesgilde ist dagegen offiziell geduldet**. Das erklärt, weshalb ein Ort wie [Eel's End](eels-end.md) seine Lastersteuern zahlt und trotzdem moralisch abgründig ist.
 
-Die Gruppe agiert aktuell von [Citadel Volshyenek](citadel-volshyenek.md) aus und soll nach [Old Korvosa](old-korvosa.md) zu [Eel's End](eels-end.md). Details: [Spielstand](../aktuell/spielstand.md).
+**Politische Lage jetzt:** [Machtkarte](../politik/index.md) · **Tatsächlich gespielt:** [Spielstand](../aktuell/spielstand.md).
+
+## Sofortantworten zu Orten
+
+**Kaufen:** [Gold Market S13](atlas/s13.md), [Eodred's Walk S14](atlas/s14.md), [Gilded Orrery S10](atlas/s10.md), [Bookmaker S11](atlas/s11.md).
+
+**Unterkommen:** [Posh and Turtle H6](atlas/h6.md), [Wise Dragon H11](atlas/h11.md), [Creaky Hammock H16](atlas/h16.md).
+
+**Ausgehen:** [Sticky Mermaid R1](atlas/r1.md), [Three Rings R4](atlas/r4.md), [Bailer's Retreat R8](atlas/r8.md), [Jade Circle R10](atlas/r10.md).
+
+**Recht & Ordnung:** [Longacre G2](atlas/g2.md), [Citadel G10](citadel-volshyenek.md).
+
+**Magie & Tempel:** [Acadamae T5](atlas/t5.md), [Bank of Abadar T3](atlas/t3.md), [Sarenrae T8](atlas/t8.md), [Pharasma T11](atlas/t11.md).
+
+[Alle 84 Orte](register.md).
