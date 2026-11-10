@@ -73,3 +73,11 @@ a.quick-result small { display:block; color:#aea4a7; font-size:.79rem; line-heig
 .quick-empty { padding:24px 17px; color:#d9b9b5; }
 #quick-panel footer { padding:12px 20px; border-top:1px solid #433740; color:#a89da2; font-size:.76rem; }
 @media (max-width:768px) { #quick-open { top:8px; right:12px; padding:9px 11px; font-size:.75rem; } #quick-overlay { padding:4vh 10px 20px; } .quick-head { font-size:1rem; } }
+
+/* Atlas route finder */
+#route-finder { background:#222631; border:1px solid #51404a; border-radius:12px; padding:17px 19px; margin:18px 0; }
+#route-finder .route-fields { display:flex; gap:15px; flex-wrap:wrap; }
+#route-finder label { display:flex; flex:1; min-width:220px; flex-direction:column; gap:6px; font-weight:600; color:#e3beb7; font-size:.9rem; }
+#route-finder select { background:#181c26; border:1px solid #745362; padding:12px; border-radius:7px; color:#f3e5df; font-size:.92rem; max-width:100%; }
+#route-answer { margin:15px 0 5px; line-height:1.65; color:#f3e5dd; }
+.route-notice { color:#c3aba6!important; font-size:.76rem; margin:2px 0!important; }

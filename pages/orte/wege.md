@@ -2,6 +2,12 @@
 
 > **Am Spieltisch:** Keine erfundenen Reisezeiten. Alle Routen sind anhand der **gedruckten Korvosa-Karte** der Anniversary Edition, Druck-S. **400** (PDF-S. **401**) und der Buchbeschreibung *Eel's End*, Druck-S. **50**, überprüfbar. Stadtviertel und Kartenmarker sind wichtiger als scheinpräzise Straßennamen.
 
+## Interaktiver Wegfinder für 84 Kartenorte
+
+Wähle Ausgangsort und Ziel. Der Wegfinder zeigt **Bezirke und Brücken**, keine erfundenen Straßen oder Wegzeiten. Den letzten Abschnitt auf der Korvosa-Karte (Druck-S. 400) nachschlagen.
+
+<div id="route-finder">Wegfinder wird geladen …</div>
+
 ## Von Citadel Volshyenek aus
 
 | Ziel | Weg / Orientierung | Karte |
