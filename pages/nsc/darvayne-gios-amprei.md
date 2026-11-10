@@ -1,5 +1,20 @@
 # Darvayne Gios Amprei
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Gesandter von Cheliax |
+| **Aussehen** | Konkretes Aussehen in der verifizierten Auftragsbeschreibung nicht näher festgelegt. |
+| **Wo gerade?** | **[OFFEN]** Gegenwärtiger Tagesaufenthalt nicht bekannt; er besucht Eel's End **S3** regelmäßig. |
+| **Was tut / will die Person?** | Korvosa wirtschaftlich unter Druck setzen und persönlich von einem Sanktionseffekt profitieren. |
+| **Verbindungen** | [Cressida](cressida-kroft.md), [Vencarlo](vencarlo-orisini.md), [Devargo](devargo-barvasi.md), [Eel's End](../orte/eels-end.md). |
+| **Später wichtig?** | **Ja, als aktueller diplomatischer Konflikt**; nach der Sicherung der Briefe keine hier verifizierte zwingende spätere Schlüsselfunktion. |
+
+**Sofortquelle:** *AP* Druck-S. 37, 54–55..
+
+---
+
 **Rolle:** Diplomatischer Vertreter von Cheliax in Korvosa.
 
 **[BUCH] Quellen:** *Anniversary Edition*, Druck-S. 37 (Event 10), 54–55 (Devargos Beweismaterial).

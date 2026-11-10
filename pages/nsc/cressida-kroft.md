@@ -1,5 +1,20 @@
 # Cressida Kroft
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Field Marshal, Anführerin des Korvosan Guard |
+| **Aussehen** | Dunkelhaarige Frau in roter Rüstung, sichtbar überarbeitet, kontrolliert und sachlich. |
+| **Wo gerade?** | Citadel Volshyenek **G10** in Midland, zuletzt beim Gespräch mit den SC. |
+| **Was tut / will die Person?** | Ordnung in der Stadt sichern, Personal und politische Handlungsfähigkeit erhalten; Belege gegen den Botschafter beschaffen. |
+| **Verbindungen** | [Vencarlo](vencarlo-orisini.md), [Verik](verik-vancaskerkin.md), [Amprei](darvayne-gios-amprei.md), [Ileosa](ileosa-arabasti.md). |
+| **Später wichtig?** | **Ja, über den gesamten Abenteuerpfad** wichtige Kontaktperson. |
+
+**Sofortquelle:** *AP* Druck-S. 36–38; NPC-Dossier ab S. 442..
+
+---
+
 **Rolle:** Field Marshal des Korvosan Guard; Befehlshaberin der städtischen Wache.
 
 **[BUCH] Quellen:** *Anniversary Edition*, Druck-S. 35–39; *Player's Guide* (2008), Druck-S. 6.

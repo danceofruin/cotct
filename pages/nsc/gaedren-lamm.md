@@ -1,5 +1,20 @@
 # Gaedren Lamm
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Verbrecherboss der Alten Fischerei |
+| **Aussehen** | Alter, verbrauchter Mann; ausführliches Aussehen der eigenen Szene nicht vollständig gesichert. |
+| **Wo gerade?** | **Fischerei-Abschnitt beendet**; Lamms persönlicher Endzustand im hier vorliegenden RP-Text nicht vollständig ausgeschrieben. |
+| **Was tut / will die Person?** | Ausbeutung von Kindern und Kleinkriminalität; Organisation nach der Fischerei faktisch zerschlagen. |
+| **Verbindungen** | [Zellara](zellara.md), [Yargin](yargin-balko.md), [Alte Fischerei](../orte/alte-fischerei.md). |
+| **Später wichtig?** | **Seine Folgen wirken weiter.** Eine direkte Rückkehr ist nicht bestätigt. |
+
+**Sofortquelle:** *AP* Druck-S. 14–28; bisheriger RP-Text..
+
+---
+
 **Rolle:** Krimineller Ausbeuter, Anführer von „Lamm's Lambs“ und verantwortlich für die Versklavung von Straßenkindern.
 
 **[BUCH] Quellen:** *Anniversary Edition*, Druck-S. 14–28, insbesondere Alte Fischerei.

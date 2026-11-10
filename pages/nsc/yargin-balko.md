@@ -1,5 +1,20 @@
 # Yargin Balko
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Lamms ehemaliger Buchhalter, Hehler und Helfer |
+| **Aussehen** | Kurzhaariger, blondhaariger Mann mit bitterem Gesicht; bemüht um modische, aber altmodisch wirkende teure Kleidung. |
+| **Wo gerade?** | **[KANON]** Aus der Fischerei entkommen, **derzeit unbekannt**. **[VORSCHLAG]** Aufenthalt bei Devargo auf Eel's End, **nicht gespielt**. |
+| **Was tut / will die Person?** | Selbsterhaltung, Schutz und eine neue Stellung; hasst die SC, fürchtet sie aber. |
+| **Verbindungen** | [Gaedren Lamm](gaedren-lamm.md); [Devargo](devargo-barvasi.md) **nur Vorschlag**. |
+| **Später wichtig?** | **Buch:** keine feste Rückkehr nach der Fischerei; **Kampagnenidee:** Wiedererkennung am Eel's End. |
+
+**Sofortquelle:** *AP* Druck-S. 19–20; eigener RP-Text zur Flucht..
+
+---
+
 **[BUCH]** Lamms langjähriger Helfer, Buchhalter, Berater, Hehler und gelegentlicher Gewaltarbeiter; beruflich mit Alchemie vertraut. Sein Statblock lautet **Human Expert 3, CR 1**, nicht Alchemist-PC-Klasse. Quelle: *Anniversary Edition*, Druck-S. 19–20.
 
 ## Charakter

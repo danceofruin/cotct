@@ -1,5 +1,20 @@
 # Trinia Sabor
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Künstlerin, später Ziel einer politischen Anschuldigung |
+| **Aussehen** | Junge Künstlerin; konkretes Auftreten kann aus der tatsächlichen Szene ergänzt werden. |
+| **Wo gerade?** | **[BUCH]** Wohnung **H13** in Midland, Slope/West Dock. **[KANON]** bislang noch kein Treffen oder Bekanntwerden bestätigt. |
+| **Was tut / will die Person?** | Als normale Künstlerin leben; [SL-SPOILER] bald zum Sündenbock gemacht, will überleben. |
+| **Verbindungen** | [Ileosa](ileosa-arabasti.md), [Cressida](cressida-kroft.md), [Trinias Wohnung H13](../orte/atlas/h13.md). |
+| **Später wichtig?** | **Ja, nächster größerer Handlungsstrang nach Eel's End.** |
+
+**Sofortquelle:** *AP* Druck-S. 38 ff., 407..
+
+---
+
 > **[SL-SPOILER]** Nächster größerer Handlungsstrang nach der Diplomatenaffäre. Nicht als Vorwissen der SC ausgeben.
 
 **Rolle:** Junge Künstlerin in Korvosa.

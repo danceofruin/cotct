@@ -1,5 +1,20 @@
 # Zellara
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Varisianische Harrow-Seherin |
+| **Aussehen** | Varisianische Kartenlegerin; genaue Details ihrer Form im laufenden Spiel hängen vom Erscheinungsstand ab. |
+| **Wo gerade?** | **[SL-SPOILER]** Geist mit Verbindung zum Harrow-Deck; **früherer Treffpunkt H15**. Ob SC das wissen, ist offen. |
+| **Was tut / will die Person?** | Den SC über das Harrow-Deck Orientierung geben, ihre Verbindung zu Gaedrens Taten auflösen. |
+| **Verbindungen** | [Raluca](../gruppe/raluca.md), [Gaedren](gaedren-lamm.md), [Zellaras Haus H15](../orte/atlas/h15.md). |
+| **Später wichtig?** | **Ja, der Harrow-Faden bleibt später relevant.** |
+
+**Sofortquelle:** *AP* Druck-S. 14–28 und 27; RP-Text..
+
+---
+
 **Rolle:** Varisianische Harrow-Seherin, die die fünf SC über persönliche Einladungen zusammenführte.
 
 **[BUCH] Quelle:** *Anniversary Edition*, *Part 1: Haunted Fortunes*, Druck-S. 14 ff. und Abschnitt um Druck-S. 27.

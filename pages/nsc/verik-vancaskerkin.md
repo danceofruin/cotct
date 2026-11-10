@@ -1,5 +1,20 @@
 # Verik Vancaskerkin
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Desertierter Wachsergeant, ehemaliger Kopf von All the World's Meat |
+| **Aussehen** | Junger Mann, sportlich, durchsetzungsbewusst, ehrgeizig. |
+| **Wo gerade?** | **[KANON]** Lebendig in Gewahrsam, **Citadel Volshyenek G10**. Zelle/Verhörraum nicht überliefert. |
+| **Was tut / will die Person?** | Eigene Entscheidung rechtfertigen; versteht die Arkona-Manipulation nicht vollständig. |
+| **Verbindungen** | [Cressida](cressida-kroft.md), [Meliya/Vimanda](vimanda-arkona.md), [Haus Arkona](../fraktionen/haus-arkona.md). |
+| **Später wichtig?** | **Ja, als überlebender Informant oder politischer Faktor möglich**; kein automatisch gespieltes Verhör. |
+
+**Sofortquelle:** *AP* Druck-S. 44–49; SL-Stand vom 10.11.2026..
+
+---
+
 **Rolle:** Ehemaliger Korvosan Guard-Wachsergeant; Anführer der Deserteure im Gebäude *All the World's Meat*.
 
 **[BUCH] Quellen:** *Anniversary Edition*, Druck-S. 44–49.

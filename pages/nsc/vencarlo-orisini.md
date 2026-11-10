@@ -1,5 +1,20 @@
 # Vencarlo Orisini
 
+> **LIVE-DOSSIER · Schnellblick**
+
+| Gesucht | Antwort |
+| --- | --- |
+| **Wer / Rolle?** | Fechtmeister und Kritiker der Regierung; [SL-SPOILER] Blackjack |
+| **Aussehen** | Gepflegter, charmanter, mittelalter Mann mit höflichem Auftreten; Fechter und erfahrener Gesprächspartner. |
+| **Wo gerade?** | **Zuletzt gesehen:** bei Cressida in Citadel Volshyenek. **Wohnhaus H2**, **Akademie T1** in Old Korvosa. Noch keine beglaubigte Abreise. |
+| **Was tut / will die Person?** | Die Bürger schützen, politische Missstände sehen und potenzielle Nachfolger für seine geheime Rolle einschätzen. |
+| **Verbindungen** | [Cressida](cressida-kroft.md), [Sabina](sabina-merrin.md), [Grau](grau-soldado.md), [Orisini Academy T1](../orte/atlas/t1.md). |
+| **Später wichtig?** | **Ja, besonders Kapitel 3 und die Blackjack-Nachfolge**. |
+
+**Sofortquelle:** *AP* Druck-S. 37, 49–50, 462–463..
+
+---
+
 **Rolle:** Angesehener Fechtmeister mit Akademie in Old Korvosa; Gesprächspartner und persönlicher Freund von Cressida Kroft.
 
 **[BUCH] Quellen:** *Anniversary Edition*, Druck-S. 37, 49–50 sowie späteres NPC-Dossier um S. 462–463.
