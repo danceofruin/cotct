@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#15151b" />
+  <meta name="description" content="Private Spielleiter-Notizen und quellengetreue Nachschlage-Wiki für Curse of the Crimson Throne, Pathfinder 1E." />
+  <title>Crimson Throne | SL-Wiki</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  <link rel="stylesheet" href="assets/wiki.css" />
+</head>
+<body>
+  <div id="app"><div class="boot-message">Die Chronik von Korvosa wird geöffnet …</div></div>
+  <script>
+    window.$docsify = {
+      name: 'CRIMSON THRONE',
+      nameLink: '/',
+      repo: 'https://github.com/danceofruin/cotct',
+      homepage: 'README.md',
+      loadSidebar: true,
+      subMaxLevel: 1,
+      auto2top: true,
+      maxLevel: 3,
+      notFoundPage: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'NPC, Ort, Kapitel suchen …',
+        noData: 'Keine Treffer',
+        depth: 4,
+        hideOtherSidebarContent: false
+      },
+      plugins: [
+        function (hook) {
+          hook.beforeEach(function(content) {
+            return content;
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>

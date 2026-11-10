@@ -1,0 +1,42 @@
+- **Schnellzugriff**
+  - [Startseite](/)
+  - [Aktueller Spielstand](/pages/aktuell/spielstand.md)
+  - [Chronik](/pages/aktuell/chronik.md)
+  - [Offene Fragen](/pages/aktuell/offen.md)
+  - [Nächste Sitzung: Eel's End](/pages/szenen/eels-end.md)
+- **Die Hand des Schicksals**
+  - [Gruppenübersicht](/pages/gruppe/index.md)
+  - [Rhudol](/pages/gruppe/rhudol.md)
+  - [Kinga](/pages/gruppe/kinga.md)
+  - [Assilias](/pages/gruppe/assilias.md)
+  - [Aurora](/pages/gruppe/aurora.md)
+  - [Raluca](/pages/gruppe/raluca.md)
+- **Kapitel**
+  - [1 · Edge of Anarchy](/pages/kapitel/01-edge-of-anarchy.md)
+  - [2–6 · Überblick](/pages/kapitel/02-bis-06.md)
+- **Schauplätze**
+  - [Korvosa](/pages/orte/korvosa.md)
+  - [Citadel Volshyenek](/pages/orte/citadel-volshyenek.md)
+  - [Alte Fischerei](/pages/orte/alte-fischerei.md)
+  - [All the World's Meat](/pages/orte/all-the-worlds-meat.md)
+  - [Old Korvosa](/pages/orte/old-korvosa.md)
+  - [Eel's End](/pages/orte/eels-end.md)
+- **Personen**
+  - [NPC-Register](/pages/nsc/index.md)
+  - [Cressida Kroft](/pages/nsc/cressida-kroft.md)
+  - [Vencarlo Orisini](/pages/nsc/vencarlo-orisini.md)
+  - [Darvayne Gios Amprei](/pages/nsc/darvayne-gios-amprei.md)
+  - [Devargo Barvasi](/pages/nsc/devargo-barvasi.md)
+  - [Yargin Balko](/pages/nsc/yargin-balko.md)
+  - [Verik Vancaskerkin](/pages/nsc/verik-vancaskerkin.md)
+  - [Gaedren Lamm](/pages/nsc/gaedren-lamm.md)
+  - [Zellara](/pages/nsc/zellara.md)
+  - [Majenko](/pages/nsc/majenko.md)
+  - [Trinia Sabor · Spoiler](/pages/nsc/trinia-sabor.md)
+- **Macht & Fraktionen**
+  - [Korvosan Guard](/pages/fraktionen/korvosan-guard.md)
+  - [Haus Arkona](/pages/fraktionen/haus-arkona.md)
+  - [Korvosas Unterwelt](/pages/fraktionen/unterwelt.md)
+- **Werkstatt**
+  - [Quellen und Seiten](/pages/quellen.md)
+  - [Redaktionsregeln](/pages/redaktion.md)
