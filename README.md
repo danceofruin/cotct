@@ -1,6 +1,6 @@
 # Curse of the Crimson Throne · LIVE
 
-> **SL-Wiki für Pathfinder 1E · Vorsicht: Spoiler.** **Schnellsuche:** Taste **`/`** drücken (oder oben rechts „Schnellsuche“). Suche etwa nach **Eodred Alter**, **Devargo**, **R8**, **Buchladen** oder **Eel's End**. Mehr als **113 sofort auffindbare Einträge** mit direkt verlinkten Seiten.
+> **SL-Wiki für Pathfinder 1E · Vorsicht: Spoiler.** **Schnellsuche:** Taste **`/`** drücken (oder oben rechts „Schnellsuche“). Suche etwa nach **Eodred Alter**, **Devargo**, **R8**, **Buchladen** oder **Eel's End**. **119 sofort auffindbare Einträge** mit direkt verlinkten Seiten.
 
 ## Stand der laufenden Runde
 

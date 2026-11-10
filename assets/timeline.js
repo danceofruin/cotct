@@ -70,7 +70,7 @@ function initTravel() {
     const raw=miles/milePerDay,days=Math.ceil(raw),rest=daysLimit-days;
     const cls=rest>=0?"travel-ok":"travel-warn";
     out.innerHTML='<div class="travel-calculation '+cls+'"><strong>'+days+' Reisetage</strong><span>'+miles+' Meilen ÷ '+milePerDay+' Meilen/Tag = '+raw.toFixed(1)+' Tage, auf ganze Reisetage aufgerundet.</span><span>'+(rest>=0?rest+' Tage verbleiben gegenüber der angesetzten Frist.':'Frist um mindestens '+Math.abs(rest)+' Tage überschritten, ohne Kämpfe, Umwege oder zusätzliche Ruhe.')+'</span></div>'+
-      '<p class="travel-caveat">**Hinweis:** Die Buchentfernung ist nur ungefähr. Keine Reisekarte und kein Zaubereffekt wurden simuliert. Die 10 Tage gelten nicht vor der Schlussphase von Kapitel 6.</p>';
+      '<p class="travel-caveat"><strong>Hinweis:</strong> Die Buchentfernung ist nur ungefähr. Keine Reisekarte und kein Zaubereffekt wurden simuliert. Die 10 Tage gelten nicht vor der Schlussphase von Kapitel 6.</p>';
   }
   calc();
 }

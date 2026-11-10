@@ -31,3 +31,6 @@
 [Der RP-Text](../aktuell/chronik.md) hinkt dem Spielstand hinterher und endet bei der Fischerei. Neuere ausdrückliche SL-Angaben überschreiben ältere Darstellungen. Keine geplante Begegnung automatisch als bereits geschehen notieren.
 
 **Nächstes Arbeitsblatt:** [Eel's End – Sitzungsvorbereitung](../szenen/eels-end.md).
+
+
+**Zeitliche Einordnung:** [Großer Abenteuerzeitstrahl](../zeit/index.md) · [Kalender bestätigter Ereignisse](../zeit/kampagnenkalender.md). **4708 AR** ist das Buchjahr; ein konkreter In-World-Tag ist bislang nicht bestätigt.

@@ -38,3 +38,8 @@ Das GitHub-Repository **danceofruin/cotct** ist öffentlich. Diese Site ist auss
 ## Technik
 
 Docsify v4 verwendet die Markdown-Dateien direkt. Die Website ist statisch, ohne Build-Schritt. Die Suchfunktion indexiert die über die Sidebar erreichbaren Seiten. Beim Anlegen neuer Seiten: Link in `_sidebar.md` hinzufügen; ansonsten bleibt die Seite über die Volltextsuche unter Umständen unsichtbar.
+
+
+## Zeitachsen-Regeln
+
+Die [vollständige Chronologie](zeit/index.md) unterscheidet bei jedem Eintrag einen **festen Jahresanker**, eine **Buchreihenfolge**, eine **ausdrückliche Dauer/Frist** oder ein **flexibles Zeitfenster**. Historische Ungereimtheiten (beispielsweise 4043 AR gegenüber »über 800 Jahren« für Kazavon) werden als Quellenkonflikt dokumentiert. Der [Kampagnenkalender](zeit/kampagnenkalender.md) enthält **ausschließlich bestätigte In-World-Daten**. Kein Datum aus einer vorgeschlagenen Chronologie wird automatisch zu gespieltem Kanon.

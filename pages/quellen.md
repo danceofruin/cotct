@@ -50,3 +50,10 @@ Es wurden **keine vollständigen Buchkapitel oder PDFs** in dieses öffentliche 
 - **H17 „Bard's End“:** Der Gazetteer-Text auf Druck-S. 407 schreibt **Southern Korvosa**; die beschriftete Stadtkarte auf Druck-S. 400 platziert **H17 in East Shore**. Beide Angaben sind deshalb im Stadtatlas ausdrücklich markiert.
 - **H18 „Leftover's“:** Der Gazetteer-Text auf Druck-S. 407 schreibt **East Shore**; die Karte auf Druck-S. 400 platziert **H18 in South Shore**. Beide Angaben stehen nebeneinander.
 - **Bezirkszählung:** Player's Guide 2008: sieben (Gray separat); Anniversary Edition 2016: sechs (Gray innerhalb Southern Korvosa). Die Wiki benutzt für Navigation die neuere Version.
+
+
+## Chronologie und Pathfinder-1E-Reisezeit
+
+- **[Gesamte Buch-Zeitachse](zeit/index.md)** mit gedruckten AP-Seiten und der historischen Zeittafel aus *Guide to Korvosa*, innen vorn.
+- Für das Finale: AP **Druck-S. 335, 378–379, 388** (Sunken Queen/160 Meilen/10 Tage). Für Scarwall: **Druck-S. 260** (etwa 300 Meilen). Für die Heilmittelentwicklung: **Druck-S. 130–131**.
+- Pathfinder-1E-[Overland Movement](https://www.d20pfsrd.com/gamemastering/exploration-movement): 30 Fuß Grundbewegung = 24 Meilen an einem normalen Acht-Stunden-Reisetag; wegloser Sumpf ×1/2. Diese Bewegungstabelle ist eine **Regelquelle**, keine Aussage des Abenteuertexts.
