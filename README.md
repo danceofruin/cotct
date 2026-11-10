@@ -1,38 +1,46 @@
-# Curse of the Crimson Throne | SL-Wiki
+# Curse of the Crimson Throne · LIVE
 
-> **Nur für die Spielleitung.** Diese Wiki enthält Spoiler für den gesamten Abenteuerpfad. Das Repository ist öffentlich; bitte keine vertraulichen Spielerinformationen veröffentlichen.
+> **SL-Wiki für Pathfinder 1E · Vorsicht: Spoiler.** **Schnellsuche:** Taste **`/`** drücken (oder oben rechts „Schnellsuche“). Suche etwa nach **Eodred Alter**, **Devargo**, **R8**, **Buchladen** oder **Eel's End**. Mehr als **113 sofort auffindbare Einträge** mit direkt verlinkten Seiten.
 
-Die deutschsprachige Nachschlage-Wiki zur Pathfinder-1E-Kampagne **Die Hand des Schicksals** in Korvosa. Buchinformationen stammen, sofern nicht anders angegeben, aus *Curse of the Crimson Throne Anniversary Edition* (Paizo, 2016).
+## Stand der laufenden Runde
 
-**Aktueller Spielstand:** Kapitel 1, *Edge of Anarchy*, nach *All the World's Meat* und vor *Eel's End*. [Stand und offene Punkte](pages/aktuell/spielstand.md).
+**Die Hand des Schicksals:** Rhudol (Slayer), Kinga (Investigator), Assilias (Wizard), Aurora (Bard), Raluca (Oracle).
 
-## Schnellzugriff
+**[KANON]** Kapitel 1 nach *All the World's Meat*. Menschenfleisch aufgeklärt und die eigene Folgequest gelöst. **Verik lebt in Citadel Volshyenek.** Die Gruppe hat mit **Cressida Kroft und Vencarlo Orisini** über den Botschafter **Darvayne Gios Amprei** gesprochen. **Eel's End ist als Nächstes dran.**
 
-| Bereich | Inhalt |
+> **[VORSCHLAG, NICHT GESPIELT]** Yargin könnte nach seiner Flucht bei Devargo Zuflucht gesucht haben und die SC wiedererkennen.
+
+[**▶ Eel's End · SL-Karte**](pages/szenen/eels-end.md) · [**Aktueller Spielstand**](pages/aktuell/spielstand.md) · [**Chronik**](pages/aktuell/chronik.md)
+
+## In einem Klick die richtige Antwort
+
+| Das fragt ein Spieler | Hier klicken |
 | --- | --- |
-| [Spielstand](pages/aktuell/spielstand.md) | Was am Tisch feststeht und was noch offen ist |
-| [Die Gruppe](pages/gruppe/index.md) | Rhudol, Kinga, Assilias, Aurora, Raluca |
-| [NPC-Register](pages/nsc/index.md) | Personen, Motive, Wissen und Verbindungen |
-| [Eel's End](pages/orte/eels-end.md) | Ort, Schiffe, Devargo und Hintergrund |
-| [Nächste Sitzung](pages/szenen/eels-end.md) | Praktische SL-Vorbereitung, einschließlich Yargin-Idee |
-| [Korvosa](pages/orte/korvosa.md) | Stadtviertel, Macht und Gesellschaft |
-| [Kapitelübersicht](pages/kapitel/01-edge-of-anarchy.md) | Verlauf von Kapitel 1 und nächste Übergänge |
-| [Quellen](pages/quellen.md) | Gedruckte Seiten, Editionen und Belegregeln |
+| **„Wie alt war der König?“** | [**Eodred II · Fakten**](pages/nsc/eodred-arabasti-ii.md): exakt unbekannt, ungefähr 60 plausibel (Schätzung) |
+| **„Wo finde ich eine Taverne?“** | [**Alle Tavernen R1–R10**](pages/orte/register.md) samt Karte und Preisniveau |
+| **„Wo ist ein Laden für Zauberbücher?“** | [**Gilded Orrery S10**](pages/orte/atlas/s10.md) oder [**Bookmaker S11**](pages/orte/atlas/s11.md) |
+| **„Wie komme ich nach Eel's End?“** | [**Wegweiser ab der Zitadelle**](pages/orte/wege.md) |
+| **„Wer ist Chef der Wache?“** | [**Cressida Kroft**](pages/nsc/cressida-kroft.md) |
+| **„Wer regiert Korvosa? Welche Gruppen haben Macht?“** | [**Politische Machtübersicht**](pages/politik/index.md) |
+| **„Wo liegt dieser Ort?“** | [**84 Orte nach Kartenmarker**](pages/orte/register.md), Originalkarte: Buch Druck-S. 400 |
+| **„Was macht NPC X gerade? Ist er später wichtig?“** | [**NPC-Register**](pages/nsc/index.md) und jeweiliges Dossier |
 
-## Wissensstatus
+## Unsere drei Nachschlageebenen
 
-- **[KANON]**: am Spieltisch etabliert oder vom SL ausdrücklich bestätigt.
-- **[BUCH]**: veröffentlichte Anniversary Edition von 2016, mit Fundstelle.
-- **[VORSCHLAG]**: mögliche Anpassung, noch kein geschehenes Ereignis.
-- **[OFFEN]**: ungeklärt oder noch nicht aus verlässlicher Quelle bestätigt.
-- **[SL-SPOILER]**: Informationen aus späteren Kapiteln, nicht für Spieler.
+**1. [NPC-Dossiers](pages/nsc/index.md):** Rolle, Aussehen, aktueller beziehungsweise letzter belegter Aufenthaltsort, Agenda, Verbindungen und spätere Relevanz.
 
-In den NPC-Seiten werden **Buchwissen**, **tatsächliche Ereignisse** und **geplante Entwicklungen** getrennt. Ein Vorschlag verändert den Kampagnenkanon nicht.
+**2. [Orte und Wege](pages/orte/register.md):** 84 nummerierte Schauplätze aus der Korvosa-Karte, einschließlich Tavernen, Gasthäusern, Läden, Behörden und Tempeln. Jeder mit Karte **G/H/R/S/T/V** und Bezirksangabe. [Routenhilfe](pages/orte/wege.md).
 
-## Website
+**3. [Macht und Fakten](pages/politik/index.md):** Herrschaft, Gesetze, Stadtwache, Adel, Unterwelt, Kirchen. [Schnellfakten](pages/fakten.md) beantworten Alltagsfragen.
 
-Dieses Repository enthält eine suchbare Website auf Basis von Docsify (ohne Build-Prozess). Nach Aktivierung von GitHub Pages unter **Settings → Pages → Deploy from a branch → main / (root)** ist sie unter `https://danceofruin.github.io/cotct/` erreichbar. Ob Pages bereits eingeschaltet ist, muss separat überprüft werden.
+## Was ist Fakt, was ist Vorbereitung?
 
-## Redaktion
+- **[KANON]**: tatsächlich gespielt oder vom SL bestätigt
+- **[BUCH]**: Paizos Anniversary Edition, Ausgabe 2016, mit Druckseite
+- **[SL-SPOILER]**: spätere/geheime Buchinformationen, die SC nicht automatisch wissen
+- **[VORSCHLAG]**: SL-Idee, noch keine gespielte Tatsache
+- **[OFFEN]**: unbestätigte oder nicht belegte Details
 
-Siehe [Redaktionsregeln](pages/redaktion.md). Keine Original-PDFs, vollständigen Abenteuerkapitel oder umfangreichen urheberrechtlich geschützten Textpassagen in das öffentliche Repository hochladen. Eigene knappe Zusammenfassungen, Verweise und Spielnotizen sind der Zweck dieser Wiki.
+Das Repository ist **öffentlich**. Die Wiki ist ausschließlich für die Spielleitung, nicht für Spielerhandouts gedacht. Das kommerzielle Kampagnen-PDF wird nicht hochgeladen.
+
+**Quellen:** [Verzeichnis](pages/quellen.md) · [Redaktionsregeln](pages/redaktion.md).
