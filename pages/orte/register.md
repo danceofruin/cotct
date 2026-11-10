@@ -2,7 +2,7 @@
 
 > **SPIELTISCH-INDEX:** Alle 84 nummerierten Orte aus dem Korvosa-Gazetteer der **Anniversary Edition**, Appendix 2, **Druck-S. 400–411**. Eine Beschriftung wie `S3` ist die originale **Kartennummer**. **Die Karte steht auf Druck-S. 400 (PDF-S. 401)**; die Legende auf Druck-S. 401 (PDF-S. 402). Diese Indexeinträge beschreiben den **Buch-Grundzustand**, nicht automatisch den aktuellen Zustand am Tisch.
 
-**Einen Weg finden:** zuerst [Wegweiser und Brücken](../wege.md), dann nach Stadtviertel/Nummer auf der Buchkarte suchen. Nicht eingetragene Straßen, Wegezeiten oder heutige Ladenöffnungen sind nicht belegt.
+**Einen Weg finden:** zuerst [Wegweiser und Brücken](wege.md), dann nach Stadtviertel/Nummer auf der Buchkarte suchen. Nicht eingetragene Straßen, Wegezeiten oder heutige Ladenöffnungen sind nicht belegt.
 
 **Schnellfilter:** Durchsuche diese Seite mit `Strg+F` oder benutze links die Wiki-Volltextsuche. Für ausführliche Ortsinformationen den Namen anklicken.
 
