@@ -8,6 +8,7 @@
   <title>Crimson Throne | SL-Wiki</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
   <link rel="stylesheet" href="assets/wiki.css" />
+  <link rel="stylesheet" href="assets/timeline.css" />
 </head>
 <body>
   <div id="app"><div class="boot-message">Die Chronik von Korvosa wird geöffnet …</div></div>
@@ -39,6 +40,7 @@
           });
           hook.doneEach(function() {
             if (window.COTCTRouteFinder) window.COTCTRouteFinder.init();
+            if (window.COTCTTimeline) { window.COTCTTimeline.init(); window.COTCTTimeline.initTravel(); }
           });
         }
       ]
@@ -49,5 +51,7 @@
   <script src="assets/search-index.js"></script>
   <script src="assets/quicksearch.js"></script>
   <script src="assets/routefinder.js"></script>
+  <script src="assets/timeline-data.js"></script>
+  <script src="assets/timeline.js"></script>
 </body>
 </html>

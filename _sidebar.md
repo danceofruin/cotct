@@ -1,5 +1,9 @@
 - **⚡ LIVE-SPIEL**
   - [Start / Dashboard](/)
+  - [Zeitstrahl · 11.000 Jahre bis Finale](/pages/zeit/index.md)
+  - [Plausibilitätscheck & Fristen](/pages/zeit/zeitkonflikte.md)
+  - [Reisezeiten berechnen](/pages/zeit/reisedauer.md)
+  - [Kampagnenkalender](/pages/zeit/kampagnenkalender.md)
   - [Schnellfakten & Alltagsfragen](/pages/fakten.md)
   - [Aktueller Spielstand](/pages/aktuell/spielstand.md)
   - [Nächste Sitzung · Eel's End](/pages/szenen/eels-end.md)
@@ -48,5 +52,7 @@
 - **📚 VORBEREITUNG & QUELLEN**
   - [Kapitel 1](/pages/kapitel/01-edge-of-anarchy.md)
   - [Kapitel 2–6 Überblick](/pages/kapitel/02-bis-06.md)
+  - [Historische Vorgeschichte](/pages/zeit/vorgeschichte.md)
+  - [Kapitelchronologie 1–6](/pages/zeit/buchhandlung.md)
   - [Quellennachweise](/pages/quellen.md)
   - [Redaktionsregeln](/pages/redaktion.md)

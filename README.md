@@ -10,6 +10,8 @@
 
 > **[VORSCHLAG, NICHT GESPIELT]** Yargin könnte nach seiner Flucht bei Devargo Zuflucht gesucht haben und die SC wiedererkennen.
 
+[**⏳ Große Zeitachse: Thassilon bis Finale**](pages/zeit/index.md) · [**Fristen und Logik-Audit**](pages/zeit/zeitkonflikte.md)
+
 [**▶ Eel's End · SL-Karte**](pages/szenen/eels-end.md) · [**Aktueller Spielstand**](pages/aktuell/spielstand.md) · [**Chronik**](pages/aktuell/chronik.md)
 
 ## In einem Klick die richtige Antwort
@@ -31,7 +33,9 @@
 
 **2. [Orte und Wege](pages/orte/register.md):** 84 nummerierte Schauplätze aus der Korvosa-Karte, einschließlich Tavernen, Gasthäusern, Läden, Behörden und Tempeln. Jeder mit Karte **G/H/R/S/T/V** und Bezirksangabe. [Routenhilfe](pages/orte/wege.md).
 
-**3. [Macht und Fakten](pages/politik/index.md):** Herrschaft, Gesetze, Stadtwache, Adel, Unterwelt, Kirchen und die wichtigsten Akademien. [Fraktionsdossiers](pages/fraktionen/krone.md) sind direkt verlinkt. [Schnellfakten](pages/fakten.md) beantworten Alltagsfragen.
+**3. [Zeitachse](pages/zeit/index.md):** 68 Stationen vom alten Thassilon bis zum Finale, quellenmarkierte Fristen, historische Widersprüche, [Plausibilitätsprüfung](pages/zeit/zeitkonflikte.md) und [Reiserechner](pages/zeit/reisedauer.md).
+
+**4. [Macht und Fakten](pages/politik/index.md):** Herrschaft, Gesetze, Stadtwache, Adel, Unterwelt, Kirchen und die wichtigsten Akademien. [Fraktionsdossiers](pages/fraktionen/krone.md) sind direkt verlinkt. [Schnellfakten](pages/fakten.md) beantworten Alltagsfragen.
 
 ## Was ist Fakt, was ist Vorbereitung?
 
