@@ -4,6 +4,9 @@
 
 ## Wer hat gerade Macht?
 
+**Einzelne Fraktionsdossiers:** [Krone](../fraktionen/krone.md) · [Gerichte](../fraktionen/verwaltung.md) · [Sable Company](../fraktionen/sable-company.md) · [Hellknights](../fraktionen/hellknights.md) · [Diebesgilde](../fraktionen/cerulean-society.md) · [Adel](../fraktionen/adel.md) · [Kirchen](../fraktionen/kirchen.md) · [Akademien](../fraktionen/akademien.md).
+
+
 | Machtzentrum | Wer führt es? | Wofür zuständig? | Situation am Spieltisch |
 | --- | --- | --- | --- |
 | **Krone** | [Ileosa Arabasti](../nsc/ileosa-arabasti.md) | Herrschaft, Diplomatie, königliche Autorität | **[KANON]** Regiert nach Eodreds Tod; Legitimationskrise und Unruhen |

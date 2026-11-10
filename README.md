@@ -31,7 +31,7 @@
 
 **2. [Orte und Wege](pages/orte/register.md):** 84 nummerierte Schauplätze aus der Korvosa-Karte, einschließlich Tavernen, Gasthäusern, Läden, Behörden und Tempeln. Jeder mit Karte **G/H/R/S/T/V** und Bezirksangabe. [Routenhilfe](pages/orte/wege.md).
 
-**3. [Macht und Fakten](pages/politik/index.md):** Herrschaft, Gesetze, Stadtwache, Adel, Unterwelt, Kirchen. [Schnellfakten](pages/fakten.md) beantworten Alltagsfragen.
+**3. [Macht und Fakten](pages/politik/index.md):** Herrschaft, Gesetze, Stadtwache, Adel, Unterwelt, Kirchen und die wichtigsten Akademien. [Fraktionsdossiers](pages/fraktionen/krone.md) sind direkt verlinkt. [Schnellfakten](pages/fakten.md) beantworten Alltagsfragen.
 
 ## Was ist Fakt, was ist Vorbereitung?
 
