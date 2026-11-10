@@ -44,8 +44,8 @@
 | **H14** | [Girrigz's Den](../../pages/orte/atlas/h14.md) | Midland; West Dock / Midland | Unterirdisches Wererattenversteck. |
 | **H15** | [Zellara's Home](../../pages/orte/atlas/h15.md) | Midland; West Dock / nahe Citadel Volshyenek | Bescheidenes Heim der Harrow-Seherin Zellara. |
 | **H16** | [Creaky Hammock](../../pages/orte/atlas/h16.md) | Midland; High Bridge, am östlichen Ufer | Gasthaus im Seefahrerstil, beliebt bei durchreisenden Schiffsmannschaften. |
-| **H17** | [Bard's End](../../pages/orte/atlas/h17.md) | Southern Korvosa; Auf der östlichen Flussseite nahe High Bridge; Karte H17 | Größtes Gasthaus der Stadt, nahe Kendall Amphitheater. |
-| **H18** | [Leftover's](../../pages/orte/atlas/h18.md) | East Shore; An der südlichen Stadtmauer nahe South Shore; Karte H18 | Einziges Gasthaus von East Shore; zwölf Zweipersonenzimmer. |
+| **H17** | [Bard's End](../../pages/orte/atlas/h17.md) | Southern Korvosa **im Text S. 407**, aber **East Shore auf Karte S. 400**; H17 | Größtes Gasthaus der Stadt, nahe Kendall Amphitheater. |
+| **H18** | [Leftover's](../../pages/orte/atlas/h18.md) | **QUELLENKONFLIKT:** Beschreibung S.407 = East Shore, Kartensymbol H18 = South Shore | Einziges Gasthaus von East Shore; zwölf Zweipersonenzimmer. |
 | **H19** | [Carowyn Manor](../../pages/orte/atlas/h19.md) | Southern Korvosa; South Shore, westlicher Teil | Prunkvolles Adelsanwesen; wichtiger Schauplatz in Kapitel 2. |
 
 ## R · Tavernen und Restaurants

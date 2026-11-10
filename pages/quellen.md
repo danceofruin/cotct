@@ -38,3 +38,15 @@
 - **[SL-SPOILER]**: Wissen für die Spielleitung, nicht für Spieler.
 
 Es wurden **keine vollständigen Buchkapitel oder PDFs** in dieses öffentliche Repo kopiert.
+
+
+## Weitere offizielle Quellen (nicht im Projekt hochgeladen)
+
+- **Paizo: [Pathfinder Chronicles: Guide to Korvosa (2008)](https://store.paizo.com/pathfinder-chronicles-guide-to-korvosa-ogl-pdf/)**. Ergänzt Personen, Geschichte, Geschäfte und die Stadt. Diesen Band **nicht** mit der vorliegenden Anniversary Edition oder dem 2008er Player's Guide gleichsetzen. Der Geburtsname **Arkapallus Arabasti** für Eodred II stammt aus dieser ergänzenden offiziellen Quelle (Druck-S. 38), nicht aus der hier hochgeladenen AP-Ausgabe.
+- **Paizo: [The Sable Company](https://cdn.paizo.com/blog/the-sable-company)** (Autorenbeitrag, 31.01.2008). Klärt die Befehlskette der Sable Company unter dem Seneschall.
+
+## Dokumentierte Quellenkonflikte
+
+- **H17 „Bard's End“:** Der Gazetteer-Text auf Druck-S. 407 schreibt **Southern Korvosa**; die beschriftete Stadtkarte auf Druck-S. 400 platziert **H17 in East Shore**. Beide Angaben sind deshalb im Stadtatlas ausdrücklich markiert.
+- **H18 „Leftover's“:** Der Gazetteer-Text auf Druck-S. 407 schreibt **East Shore**; die Karte auf Druck-S. 400 platziert **H18 in South Shore**. Beide Angaben stehen nebeneinander.
+- **Bezirkszählung:** Player's Guide 2008: sieben (Gray separat); Anniversary Edition 2016: sechs (Gray innerhalb Southern Korvosa). Die Wiki benutzt für Navigation die neuere Version.
